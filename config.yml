@@ -1,0 +1,13 @@
+---
+:log_announces: false
+:announce_int: 1800
+:min_announce_int: 300
+:whitelist_url: http://example.com/whitelist
+:mysql:
+  :host: localhost
+  :user: user
+  :pass: pass
+  :database: database
+:cache:
+  :host: localhost
+  :namespace: rtracker

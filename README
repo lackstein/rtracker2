@@ -1,0 +1,1 @@
+This is a reimplementation of the original RTracker code that should work with Gazelle-based BitTorrent sites from 2008. The code has not been updated since, and may not be compatible with the current release of Gazelle.
